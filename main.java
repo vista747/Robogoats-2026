@@ -5,8 +5,6 @@ public class main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Press W, A, S, or D (press Q to quit):");
-
         while (true) {
             String input = scanner.nextLine().toLowerCase();
 
